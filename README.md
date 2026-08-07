@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Prashant Shrestha 👋
-
-<!-- Animated Typing Banner -->
+<!-- Animated Name -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer;C%23+%26+.NET+Engineer;DevOps+Enthusiast;Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Prashant+Shrestha;Software+Developer;C%23+%26+DevOps+Engineer" alt="Prashant Shrestha" />
 </a>
 
 <p align="center">
@@ -25,9 +23,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Working on**: Enterprise software applications, system integrations, and process automation.
+- 🔭 **Working on**: Enterprise software development, backend engineering, and workflow automation.
 - 💼 **Experience**: 4+ years of professional software development experience.
-- 🌱 **Learning & Improving**: Advanced DevOps practices, CI/CD pipeline automation, and cloud deployments.
+- 🌱 **Learning & Improving**: Advanced DevOps pipelines, Docker containerization, and modern architecture.
 - 🎓 **Education**: Bachelor of Information Technology (BIT).
 - ⚡ **Outside of Coding**: Strength training & fitness, solo motorcycle touring, and minimalist design.
 
@@ -45,32 +43,25 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-005580?style=for-the-badge&logo=javascript&logoColor=white)
 
-### ⚙️ DevOps, Version Control & Project Management
+### ⚙️ DevOps, Version Control & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-4E83A8?style=for-the-badge&logo=subversion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### 🧰 Tools & Databases
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-## 📊 Dynamic Activity & Stats
+## 🧠 Focus & Discipline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashantshreh-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantshreh-pixel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2bzVsYnlrdGthZzU4bm8xbmlyOWptMnd0Mms4cDl2Y3l2MnlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYr/giphy.gif" width="480" alt="Anime Coding Focus GIF" />
 
-<br />
-
-<!-- Streak Stats Badge -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantshreh-pixel&theme=tokyonight&hide_border=true" width="97%" />
+<p><i>"Consistency, focus, and continuous growth."</i></p>
 
 </div>
 
