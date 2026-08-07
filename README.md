@@ -68,10 +68,10 @@
 
 <div align="center">
 
-<!-- GitHub Raw CDN hosted Anime Coding GIF -->
-<img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/code.gif" width="480" alt="Anime Coding Focus GIF" />
+<!-- Random Anime GIF API -->
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" width="480" alt="Random Anime GIF" />
 
-<br />
+<br /><br />
 
 <p><i>"Consistency, focus, and continuous growth."</i></p>
 
