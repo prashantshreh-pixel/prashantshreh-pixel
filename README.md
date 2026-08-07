@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Name -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Prashant+Shrestha;Software+Developer;C%23+%26+DevOps+Engineer" alt="Prashant Shrestha" />
-</a>
+<!-- Custom Starry Sky Header Banner -->
+<img src="header.svg" width="100%" alt="Prashant Shrestha Header" />
+
+<br /><br />
 
 <p align="center">
   <a href="https://github.com/prashantshreh-pixel">
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Working on**: Enterprise software development, backend engineering, and workflow automation.
+- 🔭 **Working on**: Enterprise software applications, backend engineering, and workflow automation.
 - 💼 **Experience**: 4+ years of professional software development experience.
 - 🌱 **Learning & Improving**: Advanced DevOps pipelines, Docker containerization, and modern architecture.
 - 🎓 **Education**: Bachelor of Information Technology (BIT).
@@ -59,7 +59,9 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2bzVsYnlrdGthZzU4bm8xbmlyOWptMnd0Mms4cDl2Y3l2MnlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYr/giphy.gif" width="480" alt="Anime Coding Focus GIF" />
+<img src="https://i.giphy.com/media/L1R1tvI9svvIWwpVYr/giphy.gif" width="480" alt="Anime Coding Focus GIF" />
+
+<br />
 
 <p><i>"Consistency, focus, and continuous growth."</i></p>
 
