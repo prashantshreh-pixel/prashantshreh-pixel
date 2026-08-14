@@ -56,12 +56,18 @@
 
 ---
 
+## 📊 GitHub Stats 1
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=prashantshreh-pixel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashantshreh-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantshreh-pixel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prashantshreh-pixel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prashantshreh-pixel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
 
 </div>
 
