@@ -15,6 +15,14 @@
   <a href="mailto:prashantshreh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://prashantshrestha67.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-prashantshrestha67.com.np-00DC82?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<!-- GitHub Profile View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashantshreh-pixel&label=PROFILE+VIEWS&color=512BD4&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
@@ -31,7 +39,35 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Featured Project
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **FlexPulse** | Interactive gym session & workout tracker with live rest timer, dynamic set logging, and routine building. | Django, HTMX, Alpine.js, SQL Server | [Repository](https://github.com/prashantshreh-pixel) |
+| **Developer Portfolio** | Personal portfolio featuring custom UI sound architecture, interactive component states, and dark aesthetic. | React, TypeScript, Tailwind CSS, Vercel | [Live Demo](https://prashantshrestha67.com.np) |
+
+---
+
+## 🏗️ System Design Journey
+
+- 🏛️ **Microservices & API Gateways**: Designing modular RESTful Web APIs with resilient token/rate-limiting buckets.
+- 🔒 **Database Integrity & Transactions**: Structuring ACID-compliant relational workflows, stored procedures, and complex indexing in SQL Server.
+- ⚡ **Modern Hypermedia Architecture**: Implementing lightning-fast single-page interactive experiences using **HTMX + Alpine.js** to minimize client-side bundle overhead.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prashantshreh-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantshreh-pixel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## ⚡ Tech Stack
 
 ### 🌐 Frameworks & Web Architecture
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -64,6 +100,28 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashantshreh-pixel/prashantshreh-pixel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prashantshreh-pixel/prashantshreh-pixel/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/prashantshreh-pixel/prashantshreh-pixel/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+- 🚀 Engineering scalable, high-throughput enterprise backend architectures.
+- ⚡ Mastering automated CI/CD pipeline deployments using Docker and Jenkins.
+- 💡 Contributing to performant, single-page web tooling with minimal JavaScript bundle overhead.
+
+---
+
 ## 🧠 Focus & Discipline
 
 <div align="center">
@@ -79,7 +137,17 @@
 
 ---
 
+## 📫 Contact
+
 <div align="center">
+
+Let's connect and build something solid together:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-prashantshrestha67.com.np-00DC82?style=for-the-badge&logo=vercel&logoColor=white)](https://prashantshrestha67.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-shrestha-dev)
+[![Gmail](https://img.shields.io/badge/Email-prashantshreh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantshreh@gmail.com)
+
+<br />
 
 *“Simplicity is prerequisite for reliability.”* — Edsger W. Dijkstra
 
