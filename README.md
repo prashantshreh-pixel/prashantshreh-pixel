@@ -31,19 +31,27 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Working on**: Enterprise web application development, Web APIs, and backend automation.
-- 💼 **Experience**: 4+ years of professional software development experience.
-- 🌱 **Learning & Improving**: Advanced DevOps pipelines, Docker containerization, and modern cloud architecture.
-- 🎓 **Education**: Bachelor of Information Technology (BIT).
-- ⚡ **Outside of Coding**: Strength training & fitness, solo motorcycle touring, and minimalist design.
+Hey, I'm Prashant 👋
+
+I've spent the last 4+ years building enterprise web apps, mostly on the backend. That means Web APIs, database work, and automating the boring jobs so nobody has to do them by hand. I care about software that works without fuss: clear code, solid data, and fewer surprises in production.
+
+These days I'm learning more about DevOps: Docker, CI/CD pipelines, and how modern cloud setups fit together. Outside of work I build side projects for fun, usually because something in my own life needed an app (a gym tracker, a shop ledger, a place to keep my anime list).
+
+🎓 I hold a Bachelor of Information Technology (BIT).
+
+Away from the keyboard you'll find me lifting at the gym, riding solo on my motorcycle somewhere in the hills, or cutting things down to the essentials. I like minimalism in design and in code.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **FlexPulse** | Interactive gym session & workout tracker with live rest timer, dynamic set logging, and routine building. | Django, HTMX, Alpine.js, SQL Server | [Repository](https://github.com/prashantshreh-pixel) |
+| **HisabFlow** | Grocery shop management system built to replace the physical notebook. Tracks daily sales, customer Khata/Udhaar, inventory, expenses, and profit. | Next.js, ASP.NET Core, Dapper, PostgreSQL | [Repository](https://github.com/prashantshreh-pixel/HisabFlow) |
+| **FlexPulse** | Workout tracker that turns discipline into data, with live set logging, automatic PR detection, and built-in rest timers. | React, TypeScript, Vite, Tailwind CSS | [Live Demo](https://flexpulse-gu9q.onrender.com/) · [Repository](https://github.com/prashantshreh-pixel/FlexPulse) |
+| **Shiori** | A personal, minimalist place to bookmark and track the anime and manga I watch and read. | Next.js 15, Tailwind CSS, Recharts | [Live Demo](https://shiori-seven.vercel.app) · [Repository](https://github.com/prashantshreh-pixel/Shiori) |
+| **Bleach-Tree** | Interactive force-directed graph of 189 Bleach characters, mapping their bloodlines, factions, rivalries, and alliances. | D3.js, HTML5 Canvas, JavaScript, Python | [Live Demo](https://prashantshreh-pixel.github.io/Bleach-Tree/) · [Repository](https://github.com/prashantshreh-pixel/Bleach-Tree) |
+| **Visit Nepal 2022** | My final year project, rebuilt with a modern touch. A full-stack Nepal travel guide with hotel booking, a community gallery, threaded posts, and an AI chatbot. | Django, Python, SQLite, Rasa | [Repository](https://github.com/prashantshreh-pixel/Visit-Nepal-2022) |
 | **Developer Portfolio** | Personal portfolio featuring custom UI sound architecture, interactive component states, and dark aesthetic. | React, TypeScript, Tailwind CSS, Vercel | [Live Demo](https://prashantshrestha67.com.np) |
 
 ---
@@ -82,10 +90,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-4E83A8?style=for-the-badge&logo=subversion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-6D9EEB?style=for-the-badge&logo=xml&logoColor=white)
 
 ---
 
